@@ -1,0 +1,10 @@
+Assignments due dates should be in notifications,
+Guides for skill develpment and hackathons,
+Updated timetable,
+Easier online interaction of students and faculty,
+Project guides and recommendations,
+All notes should be in one place,
+Easier buy and sell and also rent accessories,
+Should also have pictures of student IDs in case student forgets to bring ID,
+Empty parking slots,
+Easier college map navigation
