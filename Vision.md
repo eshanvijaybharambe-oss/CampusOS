@@ -7,3 +7,4 @@ This platform is for all students and college faculties who have to manage all t
 This solves the problem of managing all applications. Also students sometimes face difficulty of where to find what. Thsi problem is also solved due to AI interity
 in CampusOS.
 For future aspects, we don't want to limit CampusOS for only college students. It wil be also useful for school students and working professionals. 
+CampusOS should have due dates for assignments, updated timetable and many more facilitiess so that students will open it daily. It should also have notifcaion for today's assignments and submissions.
