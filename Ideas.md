@@ -9,4 +9,4 @@ Placement Cell
 Scholarship
 Attendance calculation
 Study guides
-Structure & Syllabus
+Structure & Syllabus 
