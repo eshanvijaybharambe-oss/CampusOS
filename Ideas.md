@@ -1,5 +1,6 @@
-AI Assistant
-Timetable
+1.AI Assistant
+
+2.Timetable
 Lost & Found
 Campus events
 Campus Map and Navigation
