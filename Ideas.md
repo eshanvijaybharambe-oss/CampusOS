@@ -1,7 +1,5 @@
-1.AI Assistant
-
-2.Timetable
-Lost & Found
+1.AI Assistant     2.Timetable
+3.Lost & Found
 Campus events
 Campus Map and Navigation
 Marketplace
